@@ -1,1 +1,0 @@
-import{Ct as e,S as t,W as n}from"./vue.runtime.esm-bundler-DggvwkM8.js";import{a as r}from"./vue-router-B3xrqjoM.js";var i=Object.assign({name:`Redirect`},{__name:`redirect`,setup(i){let{currentRoute:a,replace:o}=r(),{params:s,query:c}=e(a),{path:l}=s;return o({path:`/`+(Array.isArray(l)?l.join(`/`):l),query:c}),(e,r)=>(n(),t(`div`))}});export{i as default};
